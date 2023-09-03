@@ -1,7 +1,7 @@
 <h1 align="center">Welcome!</h1>
                   
 <p align="center">
-  <img src="https://compartilhandobr.com/wp-content/uploads/2022/02/curso-completo-do-desenvolvedor-web.jpg" alt="Sublime's custom image"/> 
+  <img src=""/> 
 </p>
 
 Trabalho com pequenos projetos backend/frontend, focando nas boas práticas e com códigos limpos. Sou apaixonado por técnologia e novos aprendizados mantendo a humildade intelectual e repassando o conhecimento que tenho para o próximo. Apaixonado por educação, técnologia e empreendedorismo. Por isso, vejo a área de dados como uma grande ponte entre a área de negócios e téclonogia. Também acredito que meu desenvolvimento auxilia no desenvolvimento de outras pessoas, e vice-versa. Ao aprender novos conceitos, vivenciar novos desafios e passar meu conhecimento/experiência para impactar a vida das outras pessoas.
